@@ -3,9 +3,9 @@
 This Python application reads a CSV file listing people and the scores they achieved in a test. It then outputs the top scorers along with their highest marks. If there are two or more top scorers, the application will output all of them in alphabetical order. The application avoids using standard CSV-parsing libraries, implementing the CSV parsing from string data instead.
 
 ## Table of Contents
-- Setup
-- Usage
-- Running Tests
+- [Setup](/#setup)
+- [Usage](/#usage)
+- [Running Tests](/#Running-Tests)
 
 ## Setup
 
